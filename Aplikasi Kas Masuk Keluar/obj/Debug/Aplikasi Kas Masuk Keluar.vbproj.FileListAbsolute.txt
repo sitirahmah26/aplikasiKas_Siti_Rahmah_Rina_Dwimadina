@@ -1,0 +1,11 @@
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\bin\Debug\Aplikasi Kas Masuk Keluar.exe.config
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\bin\Debug\Aplikasi Kas Masuk Keluar.exe
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\bin\Debug\Aplikasi Kas Masuk Keluar.pdb
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\bin\Debug\Aplikasi Kas Masuk Keluar.xml
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\obj\Debug\Aplikasi Kas Masuk Keluar.vbprojResolveAssemblyReference.cache
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\obj\Debug\Aplikasi_Kas_Masuk_Keluar.Form1.resources
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\obj\Debug\Aplikasi_Kas_Masuk_Keluar.Resources.resources
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\obj\Debug\Aplikasi Kas Masuk Keluar.vbproj.GenerateResource.Cache
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\obj\Debug\Aplikasi Kas Masuk Keluar.exe
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\obj\Debug\Aplikasi Kas Masuk Keluar.xml
+D:\Visual Basic\Aplikasi Kas Masuk Keluar\Aplikasi Kas Masuk Keluar\obj\Debug\Aplikasi Kas Masuk Keluar.pdb
